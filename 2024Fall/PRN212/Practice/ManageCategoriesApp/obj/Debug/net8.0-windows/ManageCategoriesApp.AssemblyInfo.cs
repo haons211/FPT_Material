@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManageCategoriesApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a4f0ab8a5c9c15ef7173c16b130abd8328aa776")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb71e91ee940e2c1f27a02545a06d75b93ba3678")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManageCategoriesApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManageCategoriesApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

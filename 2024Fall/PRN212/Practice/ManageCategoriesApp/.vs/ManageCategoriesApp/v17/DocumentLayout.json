@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "MyStockDBContext.cs",
               "ToolTip": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\ManageCategoriesApp\\MyStockDBContext.cs",
               "RelativeToolTip": "MyStockDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T04:28:14.242Z",
               "EditorCaption": ""
@@ -59,21 +59,19 @@
               "RelativeToolTip": "ManageCategories.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T04:27:51.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T04:27:51.963Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ManageCategoriesApp",
+              "Title": "ManageCategoriesApp.csproj",
               "DocumentMoniker": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\ManageCategoriesApp\\ManageCategoriesApp.csproj",
               "RelativeDocumentMoniker": "ManageCategoriesApp.csproj",
               "ToolTip": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\ManageCategoriesApp\\ManageCategoriesApp.csproj",
               "RelativeToolTip": "ManageCategoriesApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-26T04:24:07.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T04:24:07.579Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-26T04:24:35.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T04:24:35.219Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "ToolTip": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\ManageCategoriesApp\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-26T03:55:51.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T03:55:51.663Z"
             },
             {
               "$type": "Document",
@@ -110,8 +106,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAABAAAAAAAAAAAIA+wCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T03:55:51.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T03:55:51.061Z"
             }
           ]
         }
