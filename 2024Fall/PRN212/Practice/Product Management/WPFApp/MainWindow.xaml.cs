@@ -48,6 +48,18 @@ namespace WPFApp
             try
             {
                 var productList = iProductService.GetProducts();
+                var cateList = iCategoryService.GetCategories();
+                var joinList = from product in productList
+                               join category in cateList on product.CategoryId equals category.CategoryId
+                               select new
+                               {
+                                   ProductId = product.ProductId,
+                                   ProductName = product.ProductName,
+                                   UnitsInStock = product.UnitsInStock,
+                                   UnitPrice = product.UnitPrice,
+                                   CategoryName = category.CategoryName,
+                               };
+                
                 dgData.ItemsSource = productList;
             }
             catch (Exception ex)
@@ -172,7 +184,7 @@ namespace WPFApp
             txtProductID.Text = "";
             txtProductName.Text = "";
             txtPrice.Text = "";
-            txtUnitsInStock.Text = "" ;
+            txtUnitsInStock.Text = "";
             cboCategory.SelectedValue = 0;
 
         }

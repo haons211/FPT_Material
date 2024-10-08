@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\FUManagementHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB4808A-C720-4F3A-B52A-A21D135D0C89}|BussinessObjects\\BussinessObjects.csproj|c:\\users\\haons211\\documents\\fpt_material\\2024fall\\prn212\\practice\\fumanagementhotel\\bussinessobjects\\bussinessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AB4808A-C720-4F3A-B52A-A21D135D0C89}|BussinessObjects\\BussinessObjects.csproj|solutionrelative:bussinessobjects\\bussinessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB4078D-3015-4F09-B2D6-139042ECEC37}|WPFApp\\WPFApp.csproj|c:\\users\\haons211\\documents\\fpt_material\\2024fall\\prn212\\practice\\fumanagementhotel\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ABB4078D-3015-4F09-B2D6-139042ECEC37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB4078D-3015-4F09-B2D6-139042ECEC37}|WPFApp\\WPFApp.csproj|c:\\users\\haons211\\documents\\fpt_material\\2024fall\\prn212\\practice\\fumanagementhotel\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB4078D-3015-4F09-B2D6-139042ECEC37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0FDB20-D22F-4BC7-A71F-02AC8E0784CF}|Services\\Services.csproj|c:\\users\\haons211\\documents\\fpt_material\\2024fall\\prn212\\practice\\fumanagementhotel\\services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0FDB20-D22F-4BC7-A71F-02AC8E0784CF}|Services\\Services.csproj|solutionrelative:services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89103D93-B7FE-4CA7-AA6A-B3DB4BBB7A54}|Repositories\\Repositories.csproj|c:\\users\\haons211\\documents\\fpt_material\\2024fall\\prn212\\practice\\fumanagementhotel\\repositories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89103D93-B7FE-4CA7-AA6A-B3DB4BBB7A54}|Repositories\\Repositories.csproj|solutionrelative:repositories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748A81C2-6559-4877-95C5-45F645B6D209}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\haons211\\documents\\fpt_material\\2024fall\\prn212\\practice\\fumanagementhotel\\dataaccesslayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748A81C2-6559-4877-95C5-45F645B6D209}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB4808A-C720-4F3A-B52A-A21D135D0C89}|BussinessObjects\\BussinessObjects.csproj|c:\\users\\haons211\\documents\\fpt_material\\2024fall\\prn212\\practice\\fumanagementhotel\\bussinessobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB4808A-C720-4F3A-B52A-A21D135D0C89}|BussinessObjects\\BussinessObjects.csproj|solutionrelative:bussinessobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BussinessObjects",
+              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\FUManagementHotel\\BussinessObjects\\BussinessObjects.csproj",
+              "RelativeDocumentMoniker": "BussinessObjects\\BussinessObjects.csproj",
+              "ToolTip": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\FUManagementHotel\\BussinessObjects\\BussinessObjects.csproj",
+              "RelativeToolTip": "BussinessObjects\\BussinessObjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T01:28:24.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\FUManagementHotel\\WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\FUManagementHotel\\WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T01:28:19.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\FUManagementHotel\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\FUManagementHotel\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:28:19.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\FUManagementHotel\\Services\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Program.cs",
+              "ToolTip": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\FUManagementHotel\\Services\\Program.cs",
+              "RelativeToolTip": "Services\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:27:50.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\FUManagementHotel\\Repositories\\Program.cs",
+              "RelativeDocumentMoniker": "Repositories\\Program.cs",
+              "ToolTip": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\FUManagementHotel\\Repositories\\Program.cs",
+              "RelativeToolTip": "Repositories\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:27:40.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\FUManagementHotel\\DataAccessLayer\\Program.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\FUManagementHotel\\DataAccessLayer\\Program.cs",
+              "RelativeToolTip": "DataAccessLayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:27:26.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\FUManagementHotel\\BussinessObjects\\Program.cs",
+              "RelativeDocumentMoniker": "BussinessObjects\\Program.cs",
+              "ToolTip": "C:\\Users\\haons211\\Documents\\FPT_Material\\2024Fall\\PRN212\\Practice\\FUManagementHotel\\BussinessObjects\\Program.cs",
+              "RelativeToolTip": "BussinessObjects\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:27:07.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
